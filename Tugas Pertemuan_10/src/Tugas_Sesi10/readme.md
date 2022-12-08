@@ -1,1 +1,1 @@
-Metode yang di gunakan berpua metode inheritence
+Metode yang di gunakan berpua metode inheritence.
