@@ -1,0 +1,10 @@
+========== STRUK DATA PENJUALAN ========== 
+NO. TRANSAKSI : TR0003
+AN004 T-shirt / Kaos 5 50000
+AN001 Hoodie 1 300000
+
+
+Total Harga: 550000
+Bayar: 1000000
+Kembali: 450000
+
